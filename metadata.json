@@ -1,0 +1,7 @@
+{
+  "name": "VisionNest AI - Career Architect",
+  "description": "A comprehensive AI-powered career guidance platform for engineering students, providing personalized roadmaps, course recommendations, internship tracking, and professional mentorship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
